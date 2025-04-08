@@ -25,16 +25,19 @@ The software prints the results to the console, with validation applied to each 
 ---
 
 ## 🧪 Sample Output
-```
+<pre>
+\`\`\`
 How many sequences of DNA barcodes you would like to generate?
 3
 What is the length of the DNA barcode?
 8
 
-barcode1: GTGTACGT
-barcode2: CTGACAAC
-barcode3: CTGATGAG
-```
+barcode1: GTGTACGT  
+barcode2: CTGACAAC  
+barcode3: CTGATGAG  
+\`\`\`
+</pre>
+
 
 ## 🛠️ Project Structure
 
