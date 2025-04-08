@@ -5,7 +5,7 @@ Instructor: Dr. Nassar
 
 ---
 
-## 📄 Assignment Overview
+## 📄 Project Overview
 
 This project generates valid DNA barcodes based on biological constraints. Each generated barcode is:
 
