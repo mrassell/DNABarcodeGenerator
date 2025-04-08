@@ -25,6 +25,7 @@ The software prints the results to the console, with validation applied to each 
 ---
 
 ## 🧪 Sample Output
+```
 How many sequences of DNA barcodes you would like to generate?
 3
 What is the length of the DNA barcode?
@@ -33,7 +34,7 @@ What is the length of the DNA barcode?
 barcode1: GTGTACGT
 barcode2: CTGACAAC
 barcode3: CTGATGAG
----
+```
 
 ## 🛠️ Project Structure
 
@@ -57,8 +58,6 @@ The program is implemented in Java using the following methods:
 
 - Input is read using class variables.  
 - User input validation is not required for this assignment (L ≥ 4, N ≥ 3).  
-- Comments in code should include your name and NYU ID.
-
 ---
 
 ## 🧑‍💻 Author
